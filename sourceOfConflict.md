@@ -9,3 +9,4 @@
 
 <p> There is a no bug in this file</p>
 <p> Text can go here</p>
+<p>It is a 3rd para</p>
